@@ -1,0 +1,14 @@
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\bin\Debug\netcoreapp3.1\ConsoleMasiv.exe
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\bin\Debug\netcoreapp3.1\ConsoleMasiv.deps.json
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\bin\Debug\netcoreapp3.1\ConsoleMasiv.runtimeconfig.json
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\bin\Debug\netcoreapp3.1\ConsoleMasiv.runtimeconfig.dev.json
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\bin\Debug\netcoreapp3.1\ConsoleMasiv.dll
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\bin\Debug\netcoreapp3.1\ConsoleMasiv.pdb
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\obj\Debug\netcoreapp3.1\ConsoleMasiv.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\obj\Debug\netcoreapp3.1\ConsoleMasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\obj\Debug\netcoreapp3.1\ConsoleMasiv.AssemblyInfoInputs.cache
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\obj\Debug\netcoreapp3.1\ConsoleMasiv.AssemblyInfo.cs
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\obj\Debug\netcoreapp3.1\ConsoleMasiv.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\obj\Debug\netcoreapp3.1\ConsoleMasiv.dll
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\obj\Debug\netcoreapp3.1\ConsoleMasiv.pdb
+C:\Users\Владимир\source\repos\ConsoleMasiv\ConsoleMasiv\obj\Debug\netcoreapp3.1\ConsoleMasiv.genruntimeconfig.cache
